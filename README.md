@@ -27,7 +27,7 @@
 
 # Część 1 - DML (Data Manipulation Language)
 - 16.01.2018
-	- [prezentacja 1]()
+	- [prezentacja 1](https://bitbucket.org/pabloo99/database4/src/0054073896bdd63dfc41dddbe5b517198a6a405b/16.01.2018/prezentacja 1.pdf?at=master&fileviewer=file-view-default)
 	
-	- [zestaw 1]()		
-	- [zestaw 2]()
+	- [zestaw 1](https://bitbucket.org/pabloo99/database4/src/0054073896bdd63dfc41dddbe5b517198a6a405b/16.01.2018/zestaw%201.pdf?at=master&fileviewer=file-view-default)		
+	- [zestaw 2](https://bitbucket.org/pabloo99/database4/src/0054073896bdd63dfc41dddbe5b517198a6a405b/16.01.2018/zestaw%202.pdf?at=master&fileviewer=file-view-default)
