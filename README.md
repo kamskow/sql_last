@@ -30,7 +30,7 @@
 	- [prezentacja 1](https://bitbucket.org/pabloo99/database4/src/0054073896bdd63dfc41dddbe5b517198a6a405b/16.01.2018/prezentacja 1.pdf?at=master&fileviewer=file-view-default)
 	
 	- [zestaw 1](https://bitbucket.org/pabloo99/database4/src/0054073896bdd63dfc41dddbe5b517198a6a405b/16.01.2018/zestaw%201.pdf?at=master&fileviewer=file-view-default)		
-	- [zestaw 2](https://bitbucket.org/pabloo99/database4/src/0054073896bdd63dfc41dddbe5b517198a6a405b/16.01.2018/zestaw%202.pdf?at=master&fileviewer=file-view-default)
+	- [zestaw 2](https://bitbucket.org/pabloo99/database4/src/8b24235aa20eb94d29db74ea89acbcecb0ec51af/16.01.2018/zestaw%202.pdf?at=master&fileviewer=file-view-default)
 	
 - 17.01.2018
 	- [prezentacja 2](https://bitbucket.org/pabloo99/database4/src/4ad93644d0b46c251e5b894900b5328a429a9295/17.01.2018/prezentacja%202.pdf?at=master&fileviewer=file-view-default)
