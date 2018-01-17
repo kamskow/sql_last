@@ -25,6 +25,15 @@
 * tabela „employees” zawiera informacje o pracownikach firmy
 * tabela „job_history” zawiera informacje o historii stanowisk zajmowanych przez pracowników
 
+# Zadania domowe
+
+- zadanie dla chętnych:
+	- zainstalować i skonfigurować środowisko Oracle 11g
+	- odblokować schemat użytkownika HR
+
+- zestaw 1 : 22-31 
+- zestaw 2 : 2,3,5,10-13,19-30
+
 # Część 1 - DML (Data Manipulation Language)
 - 16.01.2018
 	- [prezentacja 1](https://bitbucket.org/pabloo99/database4/src/0054073896bdd63dfc41dddbe5b517198a6a405b/16.01.2018/prezentacja 1.pdf?at=master&fileviewer=file-view-default)
