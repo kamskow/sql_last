@@ -33,6 +33,8 @@
 
 - zestaw 1 : 22-31 
 - zestaw 2 : 2,3,5,10-13,19-30
+- zestaw 3 : 16-30
+- zestaw 4 : 3-11
 
 # Część 1 - DML (Data Manipulation Language)
 - 16.01.2018
@@ -46,4 +48,10 @@
 	
 	- [zestaw 3](https://bitbucket.org/pabloo99/database4/src/4ad93644d0b46c251e5b894900b5328a429a9295/17.01.2018/zestaw%203.pdf?at=master&fileviewer=file-view-default)		
 	- [zestaw 4](https://bitbucket.org/pabloo99/database4/src/4ad93644d0b46c251e5b894900b5328a429a9295/17.01.2018/zestaw%204.pdf?at=master&fileviewer=file-view-default)
+
+- 18.01.2018
+	- [prezentacja 3]()
+	
+	- [zestaw 4]()		
+	- [zestaw 5]()
 	
