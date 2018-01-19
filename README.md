@@ -35,6 +35,7 @@
 - zestaw 2 : 2,3,5,10-13,19-30
 - zestaw 3 : 16-30
 - zestaw 4 : 3-11
+- zestaw 5 : 12-17 
 
 # Część 1 - DML (Data Manipulation Language)
 - 16.01.2018
@@ -52,6 +53,15 @@
 - 18.01.2018
 	- [prezentacja 3](https://bitbucket.org/pabloo99/database4/src/67377bfe5361b3b0ea3a0c40b8a6e6d29d6b7eaf/18.01.2018/prezentacja%203.pdf?at=master&fileviewer=file-view-default)
 	
-	- [zestaw 4](https://bitbucket.org/pabloo99/database4/src/67377bfe5361b3b0ea3a0c40b8a6e6d29d6b7eaf/18.01.2018/zestaw%205.pdf?at=master&fileviewer=file-view-default)		
-	- [zestaw 5](https://bitbucket.org/pabloo99/database4/src/67377bfe5361b3b0ea3a0c40b8a6e6d29d6b7eaf/18.01.2018/zestaw%206.pdf?at=master&fileviewer=file-view-default)
+	- [zestaw 5](https://bitbucket.org/pabloo99/database4/src/67377bfe5361b3b0ea3a0c40b8a6e6d29d6b7eaf/18.01.2018/zestaw%205.pdf?at=master&fileviewer=file-view-default)		
+	- [zestaw 6](https://bitbucket.org/pabloo99/database4/src/67377bfe5361b3b0ea3a0c40b8a6e6d29d6b7eaf/18.01.2018/zestaw%206.pdf?at=master&fileviewer=file-view-default)
 	
+# Część 2 - DDL (Data Definition Language)
+- 19.01.2018
+	- [prezentacja 4]()
+	- [zestaw 7]()
+	- [zestaw 8]()
+	- [zestaw 9]()
+
+- 22.12.2017
+	- [zadanie]()
