@@ -58,10 +58,10 @@
 	
 # Część 2 - DDL (Data Definition Language)
 - 19.01.2018
-	- [prezentacja 4]()
-	- [zestaw 7]()
-	- [zestaw 8]()
-	- [zestaw 9]()
+	- [prezentacja 4](https://bitbucket.org/pabloo99/database4/src/5ccb60954aa4fc7c4378f423841454205a927fbf/19.01.2018/prezentacja%204.pdf?at=master&fileviewer=file-view-default)
+	- [zestaw 7](https://bitbucket.org/pabloo99/database4/src/5ccb60954aa4fc7c4378f423841454205a927fbf/19.01.2018/zestaw%207.pdf?at=master&fileviewer=file-view-default)
+	- [zestaw 8](https://bitbucket.org/pabloo99/database4/src/5ccb60954aa4fc7c4378f423841454205a927fbf/19.01.2018/zestaw%208.pdf?at=master&fileviewer=file-view-default)
+	- [zestaw 9](https://bitbucket.org/pabloo99/database4/src/5ccb60954aa4fc7c4378f423841454205a927fbf/19.01.2018/zestaw%209.pdf?at=master&fileviewer=file-view-default)
 
 - 22.12.2017
-	- [zadanie]()
+	- [zadanie](https://bitbucket.org/pabloo99/database4/src/5ccb60954aa4fc7c4378f423841454205a927fbf/22.01.2018/zadanie.pdf?at=master&fileviewer=file-view-default)
