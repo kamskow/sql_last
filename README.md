@@ -68,6 +68,6 @@
 	
 # Część 3 - transakcje, procedury, triggery
 - 23.01.2018
-    - [prezentacja 5]()
-	- [zestaw 10]()
+    - [prezentacja 5](https://bitbucket.org/pabloo99/database4/src/1bc4c7ef2848de7e9f058cf8152eebef05b98a1f/23.01.2018/prezentacja%205.pdf?at=master&fileviewer=file-view-default)
+	- [zestaw 10](https://bitbucket.org/pabloo99/database4/src/1bc4c7ef2848de7e9f058cf8152eebef05b98a1f/23.01.2018/zestaw%2010.pdf?at=master&fileviewer=file-view-default)
 
