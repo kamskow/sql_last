@@ -63,5 +63,11 @@
 	- [zestaw 8](https://bitbucket.org/pabloo99/database4/src/5ccb60954aa4fc7c4378f423841454205a927fbf/19.01.2018/zestaw%208.pdf?at=master&fileviewer=file-view-default)
 	- [zestaw 9](https://bitbucket.org/pabloo99/database4/src/5ccb60954aa4fc7c4378f423841454205a927fbf/19.01.2018/zestaw%209.pdf?at=master&fileviewer=file-view-default)
 
-- 22.12.2017
+- 22.01.2018
 	- [zadanie](https://bitbucket.org/pabloo99/database4/src/5ccb60954aa4fc7c4378f423841454205a927fbf/22.01.2018/zadanie.pdf?at=master&fileviewer=file-view-default)
+	
+# Część 3 - transakcje, procedury, triggery
+- 23.01.2018
+    - [prezentacja 5]()
+	- [zestaw 10]()
+
